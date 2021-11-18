@@ -1,0 +1,33 @@
+@import url("https://use.fontawesome.com/releases/v5.15.4/css/all.css");
+
+
+a{
+    text-decoration: none;
+}
+
+i{
+    padding-right: 7px;
+}
+
+.Click-me{
+    display: inline-block;
+    background-color: #008000;
+    color: white;
+    padding: 8px;
+    margin-left: 80px;
+    margin-top: 80px;
+    border-radius: 3px;
+   
+}
+
+.Mail-me{
+    display: inline-block;
+    background-color: #ff8c00;
+    color: white;
+    padding: 8px;
+    margin-left: 80px;
+    margin-top: 10px;
+    border-radius: 3px;
+    
+    
+}
